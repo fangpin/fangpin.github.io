@@ -18,7 +18,7 @@ email: fpfangpin@hotmail.com
 description: Feel free to send me your CV and job ID if you would like a Microsoft referral. https://shimo.im/sheets/vFxa7WoTasED6cAH
 # twitter_username: username
 github_username: fangpin
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -57,32 +57,38 @@ plugins:
 author:
   name   : "Pin Fang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Feel free to send me your CV and job ID if you would like a Microsoft referral."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/fangpin"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:fpfangpin@hotmail.com"
+    - label: "知乎"
+      icon: "fab fa-zhihu"
+      url: "https://www.zhihu.com/people/pifan7"
+    - label: "Steam"
+      icon: "fab fa-steam"
+      url: "https://steamcommunity.com/id/fangpin"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/fangpin"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:fpfangpin@hotmail.com"
+    - label: "知乎"
+      icon: "fab fa-zhihu"
+      url: "https://www.zhihu.com/people/pifan7"
 
 defaults:
   # _posts

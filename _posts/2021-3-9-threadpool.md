@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Naive c++11 implmentation of thread pool
+title: "Naive c++11 implmentation of thread pool"
+date: 2021-03-09T15:34:30-04:00
+categories:
+  - C++
+tags:
+  - C++
 ---
 A naive c++11 implementation of thread pool
 
