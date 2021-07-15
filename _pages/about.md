@@ -6,22 +6,10 @@ title: "About"
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome
 I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 
-<!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
-
 # 👨‍💻 Popular Repositories
 <a align="left" href="https://github.com/fangpin/siamese-pytorch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
 <a align="left" href="https://github.com/fangpin/miniDFS" title="miniDFS"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
 <br/><br/><br/><br/><br/><br/>
-<!-- <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/> -->
-
-# &#x1f4c8; GitHub Stats
-<a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,java,yasnippet,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
-
 
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me
 ## Education
