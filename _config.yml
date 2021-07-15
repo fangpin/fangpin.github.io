@@ -64,7 +64,7 @@ author:
       url: "https://github.com/fangpin"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/pinfang/"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:fpfangpin@hotmail.com"
@@ -82,13 +82,16 @@ footer:
       url: "https://github.com/fangpin"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/pinfang/"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:fpfangpin@hotmail.com"
     - label: "知乎"
       icon: "fab fa-zhihu"
       url: "https://www.zhihu.com/people/pifan7"
+    - label: "Steam"
+      icon: "fab fa-steam"
+      url: "https://steamcommunity.com/id/fangpin"
 
 defaults:
   # _posts
