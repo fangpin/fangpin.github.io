@@ -6,11 +6,6 @@ title: "About"
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome
 I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 
-# 👨‍💻 Popular Repositories
-<a align="left" href="https://github.com/fangpin/siamese-pytorch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
-<a align="left" href="https://github.com/fangpin/miniDFS" title="miniDFS"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
-<br/><br/><br/><br/><br/><br/>
-
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me
 ## Education
 
